@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name SMA_PINS)(type KiCad)(uri C:/Users/marco/Documents/KiCad/Lib_Custom/modules/SMA_PINS.pretty)(options "")(descr ""))
+  (lib (name ATC_B)(type KiCad)(uri C:/Users/marco/Documents/KiCad/Lib_Custom/modules/ATC_B.pretty)(options "")(descr ""))
+  (lib (name transitions_strip)(type KiCad)(uri C:/Users/marco/Documents/KiCad/Lib_Custom/modules/transitions_strip.pretty)(options "")(descr ""))
+)
